@@ -2,7 +2,7 @@
 
 ### Backend : 
 #### Set Google client id and secret in settings.py file.
-#### Run backend code :
+#### Run the backend server :
 ```
 python manage.py runserver
 ```
@@ -14,7 +14,7 @@ python manage.py runserver
 npm i
 ```
 
-### Run the server :
+#### Run the frontend server :
 ```
 npm start
 ```
